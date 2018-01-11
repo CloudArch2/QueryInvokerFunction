@@ -6,6 +6,7 @@ namespace FidoFetch.Models
     [DataContract]
     public class QueryEvent
     {
+        // QueryID is a unique identifer for the query and also creates the blob container.
         [DataMember]
         public string QueryID { get; set; }
 
