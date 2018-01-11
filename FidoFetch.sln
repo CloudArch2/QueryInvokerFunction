@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidoFetch", "FidoFetch\FidoFetch.csproj", "{C8CE14DE-682A-47B6-97A8-6CBCD9BACF76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{8C678283-DE40-4D3D-AEBF-7FD584E084B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8CE14DE-682A-47B6-97A8-6CBCD9BACF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CE14DE-682A-47B6-97A8-6CBCD9BACF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CE14DE-682A-47B6-97A8-6CBCD9BACF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CE14DE-682A-47B6-97A8-6CBCD9BACF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C678283-DE40-4D3D-AEBF-7FD584E084B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C678283-DE40-4D3D-AEBF-7FD584E084B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C678283-DE40-4D3D-AEBF-7FD584E084B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C678283-DE40-4D3D-AEBF-7FD584E084B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72269DAB-DCE8-405F-95D2-C896231B46CC}
+	EndGlobalSection
+EndGlobal

@@ -3,3 +3,5 @@
 ################################################################################
 
 /UnitTests/bin/Debug
+/UnitTests/obj/Debug
+/.vs/FidoFetch/v15/Server/sqlite3
